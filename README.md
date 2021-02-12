@@ -6,7 +6,7 @@ I use my technical and managerial knowledge and experience as well as modern tec
 
 I don't share my customers' code. I use Github to collect useful examples of how to use my favorite technologies.
 
-My current research areas are decentralization, cryptography, and information security.
+My current research areas are decentralization, cryptography, and information security. I also follow interesting people and starred interesting projects in my and related fields.
 
 <!--
 **ansmirnov/ansmirnov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
