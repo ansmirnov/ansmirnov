@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Andrey. I'm a Systems Architect and Tech Lead.
+
 <!--
 **ansmirnov/ansmirnov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
