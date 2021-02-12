@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Andrey. I'm a Systems Architect and a Tech Lead. 
+My name is Andrey. I'm a **Systems Architect** and a **Tech Lead**. Former Python coder and DevOps engineer.
 
 I use my technical and managerial knowledge and experience as well as modern technology to design and implement successful systems.
 
