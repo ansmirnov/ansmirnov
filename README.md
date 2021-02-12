@@ -4,7 +4,9 @@ My name is Andrey. I'm a Systems Architect and a Tech Lead.
 
 I use my technical and managerial knowledge and experience as well as modern technology to design and implement successful systems.
 
-I don't share my customers' code. I use Github to collect examples of my favorite technologies.
+I don't share my customers' code. I use Github to collect useful examples of how to use my favorite technologies.
+
+My current research areas are decentralization, cryptography, and information security.
 
 <!--
 **ansmirnov/ansmirnov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
