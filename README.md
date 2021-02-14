@@ -4,7 +4,7 @@ My name is Andrey. I'm a **Systems Architect** and a **Tech Lead**. Former a Pyt
 
 I use my technical and managerial knowledge and experience as well as modern technology to design and implement successful systems.
 
-My current research fields are decentralization, cryptography, and information security. I also follow interesting people and starred interesting projects in my and related fields.
+My current research fields are decentralization, cryptography, and information security. I also follow interesting people and star interesting projects in my and related fields.
 
 I don't share my customers' code. I use Github to collect useful examples of how to use my favorite technologies.
 
