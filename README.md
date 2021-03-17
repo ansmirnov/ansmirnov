@@ -1,12 +1,14 @@
 ### Hi there 👋
 
-My name is Andrey. I'm a **Systems Architect** and a **Tech Lead**. Former a Python coder and a DevOps engineer.
-
-I use my technical and managerial knowledge and experience as well as modern technology to design and implement successful systems.
-
-My current research fields are decentralization, cryptography, and information security. I also follow interesting people and star interesting projects in my and related fields.
-
-I don't share my customers' code. I use Github to collect useful examples of how to use my favorite technologies.
+My name is Andrey. I'm a **Blockchain Systems Architect** and a **Tech Lead**. I use my technical knowledge and managerial experience, as well as modern technology, to design and implement successful systems.
+ 
+I research in the field of **Blockchain**, **Cryptography**, and **Decentralization systems**. I understand the inner workings of technology: Bitcoin, Ethereum, IPFS, DHT, and BitTorrent.
+ 
+In the past, I have written lots of codes in **Python** and some codes in functional programming languages.
+ 
+I have had experience in a **DevOps** role. I've configured infrastructure based on Linux, AWS, and Azure for highly loaded applications. I've built pipelines for continuous application integration and delivery (CI/CD).
+ 
+I study **State-of-the-Art transdisciplinaries** to be able to switch quickly from one role to another and remain in demand in a rapidly changing world.
 
 <!--
 **ansmirnov/ansmirnov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
