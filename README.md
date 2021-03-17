@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Andrey. I'm a **Blockchain Systems Architect** and a **Tech Lead**. I use my technical knowledge and managerial experience, as well as modern technology, to design and implement successful systems.
+My name is Andrey. I am a **Blockchain Systems Architect** and a **Tech Lead**. I use my technical knowledge and managerial experience, as well as modern technology, to design and implement successful systems.
  
 I research in the field of **Blockchain**, **Cryptography**, and **Decentralized Systems**. I understand the inner workings of technology: Bitcoin, Ethereum, IPFS, DHT, and BitTorrent.
  
