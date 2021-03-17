@@ -6,7 +6,7 @@ I research in the field of **Blockchain**, **Cryptography**, and **Decentralized
  
 In the past, I have written lots of codes in **Python** and some codes in functional programming languages.
  
-I have had experience in a **DevOps** role. I've configured infrastructure based on Linux, AWS, and Azure for highly loaded applications. I've built pipelines for continuous application integration and delivery (CI/CD).
+I have had experience in a **DevOps** role. I have configured infrastructure based on Linux, AWS, and Azure for highly loaded applications. I have built pipelines for continuous application integration and delivery (CI/CD).
  
 I study **State-of-the-Art transdisciplinaries** to be able to switch quickly from one role to another and remain in demand in a rapidly changing world.
 
